@@ -1,1 +1,4 @@
-This is just a test
+git add .
+git commit -m "JIRA-12603: Fixed denied permissions issue"
+git push origin main
+
